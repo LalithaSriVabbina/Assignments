@@ -1,0 +1,5 @@
+n=5
+for i in range (n, thetha,-1):
+for j in range (1 it):
+print ('*', End = * * )
+print ('\n')
